@@ -82,19 +82,19 @@ section h3 {
 
 .activity-card ul li {
   margin-bottom: 10px;
-  padding: 8px 12px;
+  padding: 10px 15px;
   background-color: #f9f9f9;
   border: 1px solid #ddd;
-  border-radius: 4px;
+  border-radius: 6px;
   color: #333;
   font-size: 14px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  transition: background-color 0.2s, transform 0.2s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s, transform 0.2s;
 }
 
 .activity-card ul li:hover {
   background-color: #f1f1f1;
-  transform: translateY(-2px);
+  transform: translateY(-3px);
 }
 
 .activity-card ul li::before {
@@ -137,7 +137,7 @@ button:hover {
   background-color: #3949ab;
 }
 
-.message {
+message {
   margin-top: 20px;
   padding: 10px;
   border-radius: 4px;
