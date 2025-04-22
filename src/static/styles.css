@@ -82,10 +82,10 @@ section h3 {
 
 .activity-card ul li {
   margin-bottom: 10px;
-  padding: 10px 15px;
-  background-color: #f9f9f9;
+  padding: 12px 18px;
+  background: linear-gradient(90deg, #f9f9f9, #f1f1f1);
   border: 1px solid #ddd;
-  border-radius: 6px;
+  border-radius: 8px;
   color: #333;
   font-size: 14px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -93,7 +93,7 @@ section h3 {
 }
 
 .activity-card ul li:hover {
-  background-color: #f1f1f1;
+  background-color: #eaeaea;
   transform: translateY(-3px);
 }
 
